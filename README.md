@@ -1,0 +1,1 @@
+A port from perl to python of Kenji Sagae's simpledep shift-reduce parser, based on Yamada & Matsumoto (2003). See http://people.ict.usc.edu/~sagae/software.html.  This code is primarily for educational/tutorial purposes.
